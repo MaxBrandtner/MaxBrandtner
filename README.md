@@ -3,7 +3,7 @@
 Hi, I'm a high-school student who likes to learn about programming and everything Linux / FOSS. I love to tinker and to make interacting with my PC as much of a joy as it possibly could be.
 
 ## Skills
-  ### Programming
+  ### Programming languages
     c
     bash
     python
