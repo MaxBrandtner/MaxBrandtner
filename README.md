@@ -3,12 +3,14 @@ Hi, I'm a high-school student who likes to learn about programming and everythin
 
 ## Skills
   ### Programming languages
+  
     > - c
     >
     > - bash
     >
     > - python
   ### Frameworks
+  
     > - GTK4
 ## Reach me
 Mail: maximilian.immanuel.brandtner@protonmail.com
