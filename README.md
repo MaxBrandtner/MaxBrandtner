@@ -8,6 +8,6 @@ Hi, I'm a high-school student who likes to learn about programming and everythin
     bash
     python
   ### Frameworks
-    GTK4
+    Gtk4
 ## Reach me
 Mail: maximilian.immanuel.brandtner@protonmail.com
