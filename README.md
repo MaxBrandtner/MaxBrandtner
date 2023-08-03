@@ -1,13 +1,15 @@
-# Max Brandtner
-Hi, I'm a high-school student who likes to learn about programming and everything Linux / FOSS. I love to tinker and to make interacting with my PC as much of a joy as it possibly could be.
+# About Me
 
-## Skills
-  ### Programming languages
+I am Cyber Security student interested in everything Linux. This GitHub is for me to share some personal projects that I've been working on. I am especially interested in virtualization, automation, security, Gtk/Libawaita...
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gtk)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats</summary>
   
-    c
-    bash
-    python
-  ### Frameworks
-    Gtk4
-## Reach me
-Mail: maximilian.immanuel.brandtner@protonmail.com
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MaxBrandtner&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrandtner&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
