@@ -11,5 +11,5 @@ I am Cyber Security student interested in everything Linux. This GitHub is for m
   <summary>Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MaxBrandtner&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrandtner&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrandtner&layout=demo&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
