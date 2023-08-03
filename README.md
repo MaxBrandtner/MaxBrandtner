@@ -1,4 +1,10 @@
-# About Me
+<table>
+  <tr style="margin: 50px;">
+    <a>
+      <img style="max-width: 500;" src="https://github.com/MaxBrandtner/MaxBrandtner/blob/main/github_banner.png">
+    </a>
+  </tr>
+</table>
 
 <table style="border: none;">
   <tr style="borer: none;">
