@@ -19,7 +19,8 @@
           I am Cyber Security student interested in everything Linux. <br> 
           This GitHub is for me to share some personal projects <br> 
           that I've been working on. I am especially interested in <br>
-          virtualization, automation, security, Gtk/Libawaita...
+          virtualization, automation, security, Gtk/Libawaita... <br>
+          <b>I do not speak or act on this account on behalf of IBM</b>
         </p>
       </div>
       <div style="padding: 100px;">
