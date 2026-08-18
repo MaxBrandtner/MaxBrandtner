@@ -15,3 +15,5 @@ Just a corporate uni student interested in virtualization, Linux, and compilers.
 [virtio_console: fix order of fields cols and rows](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5326ab737a47278dbd16ed3ee7380b26c7056ddd)
 
 [tls: don't abort the connection on signal-interrupted sends](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=af0e5cdd031f)
+
+[tls: fix RX desync on overlapping skbs](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=9466ef3ec972)
