@@ -1,8 +1,8 @@
 # Max Brandtner
 
-<img src="https://skillicons.dev/icons?i=bash,arch,nix,neovim,c,rust">
+<img src="https://skillicons.dev/icons?i=bash,arch,neovim,c,rust">
 
-Just a corporate uni student interested in virtualization, Linux, and compilers.
+Just a guy interested in virtualization, Linux, and compilers.
 
 ## Contributions:
 
