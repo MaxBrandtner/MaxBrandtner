@@ -25,3 +25,7 @@ Just a guy interested in virtualization, Linux, and compilers.
 [tls: fix RX desync on overlapping skbs](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=9466ef3ec972)
 
 [virtio_console: fix order of fields cols and rows](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5326ab737a47278dbd16ed3ee7380b26c7056ddd)
+
+**QEMU:**
+
+[ s390x/sclpconsole: implement resizing for vt220 consoles](https://gitlab.com/qemu-project/qemu/-/commit/65bfbdfb4da92b7e2b0259ccd6c1c7ce488e558c)
