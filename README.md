@@ -26,6 +26,10 @@ Just a guy interested in virtualization, Linux, and compilers.
 
 [virtio_console: fix order of fields cols and rows](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5326ab737a47278dbd16ed3ee7380b26c7056ddd)
 
+**LLVM:**
+
+[\[SimplifyCFG\] Erase terminator before RAUW when folding empty block](https://github.com/llvm/llvm-project/commit/e7740e58407e2696526f997dffd1125f072c33e1)
+
 **QEMU:**
 
 [ s390x/sclpconsole: implement resizing for vt220 consoles](https://gitlab.com/qemu-project/qemu/-/commit/65bfbdfb4da92b7e2b0259ccd6c1c7ce488e558c)
