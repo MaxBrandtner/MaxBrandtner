@@ -30,6 +30,8 @@ Just a guy interested in virtualization, Linux, and compilers.
 
 [\[SimplifyCFG\] Erase terminator before RAUW when folding empty block](https://github.com/llvm/llvm-project/commit/e7740e58407e2696526f997dffd1125f072c33e1)
 
+[\[SimplifyCFG\] Skip phi scans when folded block shares no predecessors](https://github.com/llvm/llvm-project/commit/73903e0c1711f2b2f662a91b24bc7affde1bb8bd)
+
 **QEMU:**
 
 [ s390x/sclpconsole: implement resizing for vt220 consoles](https://gitlab.com/qemu-project/qemu/-/commit/65bfbdfb4da92b7e2b0259ccd6c1c7ce488e558c)
